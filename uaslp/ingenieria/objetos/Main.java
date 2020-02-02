@@ -30,6 +30,7 @@ public class Main {
         Grupo []grupos = new Grupo[]{objetos01, objetos02, objetos03, algoritmos01, grafos01};
 
         for(Grupo grupo: grupos){
+            //TODO: definir el siguiente metodo
             imprimeInformacionDelGrupo(grupo);
         }
 
