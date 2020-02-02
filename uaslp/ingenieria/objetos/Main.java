@@ -8,14 +8,14 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Profesor eloy = new Profesor("Eloy", "Hern√°ndez Castro");
+        Profesor eloy = new Profesor("Eloy", "Hern·ndez Castro");
         Profesor ivan = new Profesor("Ivan Israel", "Uresti Adame");
         Profesor paco = new Profesor("Francisco Javier", "Torres Reyes");
-        Profesor alberto = new Profesor("Alberto Salvador", "Nu√±ez Varela");
+        Profesor alberto = new Profesor("Alberto Salvador", "NuÒez Varela");
         Profesor miguelAngel = new Profesor("Miguel Angel", "De la Cruz");
-        Profesor botello = new Profesor("Miguel Angel", "Botello Arag√≥n");
+        Profesor botello = new Profesor("Miguel Angel", "Botello AragÛn");
 
-        Materia objetos = new Materia("TECNOLOG√çA ORIENTADA A OBJETOS", "2234", 8);
+        Materia objetos = new Materia("TECNOLOGIA ORIENTADA A OBJETOS", "2234", 8);
         Materia algoritmos = new Materia("ALGORITMOS Y COMPLEJIDAD", "2235", 8);
         Materia grafos = new Materia("Grafos", "2133", 10);
 
