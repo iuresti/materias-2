@@ -1,9 +1,12 @@
 # Tecnología orientada a objetos
-> Práctica 01
+> Práctica 02
 
+El método main ha sido modificado para hacerlo más legible separando el bloque
+de instrucciones que imprimen la información de un grupo a otro método.
 
-Añada el código necesario para poder compilar exitosamente el programa y que al ejecutarlo
-la salida sea la siguiente:
+Escriba el código necesario para que el programa compile exitosamente y la salida
+sea la misma que en la práctica 1:
+
 
 ```
 Materia: TECNOLOGÍA ORIENTADA A OBJETOS
